@@ -1,1 +1,3 @@
-# Lab3_816010815
+# ECNG 3006 Lab 3 Repository
+
+For reference: <a>Lab3Resource.pdf </a>
